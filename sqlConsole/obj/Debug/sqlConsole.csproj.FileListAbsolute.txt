@@ -1,0 +1,7 @@
+C:\Users\ivan.tapia\source\repos\sqlConsole\sqlConsole\bin\Debug\sqlConsole.exe.config
+C:\Users\ivan.tapia\source\repos\sqlConsole\sqlConsole\bin\Debug\sqlConsole.exe
+C:\Users\ivan.tapia\source\repos\sqlConsole\sqlConsole\bin\Debug\sqlConsole.pdb
+C:\Users\ivan.tapia\source\repos\sqlConsole\sqlConsole\obj\Debug\sqlConsole.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\repos\sqlConsole\sqlConsole\obj\Debug\sqlConsole.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\repos\sqlConsole\sqlConsole\obj\Debug\sqlConsole.exe
+C:\Users\ivan.tapia\source\repos\sqlConsole\sqlConsole\obj\Debug\sqlConsole.pdb

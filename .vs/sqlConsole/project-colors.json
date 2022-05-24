@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9abf9ce-296f-4d55-86a6-397954da1736": {
+      "ProjectGuid": "f9abf9ce-296f-4d55-86a6-397954da1736",
+      "DisplayName": "sqlConsole",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
